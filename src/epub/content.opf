@@ -102,13 +102,261 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/conclusion.xhtml" id="conclusion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-1.xhtml" id="day-1-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-2.xhtml" id="day-1-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-3.xhtml" id="day-1-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-4.xhtml" id="day-1-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-5.xhtml" id="day-1-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-6.xhtml" id="day-1-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-7.xhtml" id="day-1-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-8.xhtml" id="day-1-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-9.xhtml" id="day-1-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-10.xhtml" id="day-1-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1-introduction.xhtml" id="day-1-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-1.xhtml" id="day-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-1.xhtml" id="day-2-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-2.xhtml" id="day-2-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-3.xhtml" id="day-2-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-4.xhtml" id="day-2-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-5.xhtml" id="day-2-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-6.xhtml" id="day-2-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-7.xhtml" id="day-2-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-8.xhtml" id="day-2-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-9.xhtml" id="day-2-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-10.xhtml" id="day-2-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2-introduction.xhtml" id="day-2-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-2.xhtml" id="day-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-1.xhtml" id="day-3-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-2.xhtml" id="day-3-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-3.xhtml" id="day-3-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-4.xhtml" id="day-3-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-5.xhtml" id="day-3-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-6.xhtml" id="day-3-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-7.xhtml" id="day-3-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-8.xhtml" id="day-3-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-9.xhtml" id="day-3-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-10.xhtml" id="day-3-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3-introduction.xhtml" id="day-3-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-3.xhtml" id="day-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-1.xhtml" id="day-4-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-2.xhtml" id="day-4-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-3.xhtml" id="day-4-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-4.xhtml" id="day-4-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-5.xhtml" id="day-4-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-6.xhtml" id="day-4-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-7.xhtml" id="day-4-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-8.xhtml" id="day-4-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-9.xhtml" id="day-4-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-10.xhtml" id="day-4-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4-introduction.xhtml" id="day-4-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-4.xhtml" id="day-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-1.xhtml" id="day-5-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-2.xhtml" id="day-5-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-3.xhtml" id="day-5-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-4.xhtml" id="day-5-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-5.xhtml" id="day-5-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-6.xhtml" id="day-5-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-7.xhtml" id="day-5-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-8.xhtml" id="day-5-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-9.xhtml" id="day-5-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-10.xhtml" id="day-5-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5-introduction.xhtml" id="day-5-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-5.xhtml" id="day-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-1.xhtml" id="day-6-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-2.xhtml" id="day-6-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-3.xhtml" id="day-6-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-4.xhtml" id="day-6-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-5.xhtml" id="day-6-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-6.xhtml" id="day-6-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-7.xhtml" id="day-6-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-8.xhtml" id="day-6-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-9.xhtml" id="day-6-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-10.xhtml" id="day-6-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6-introduction.xhtml" id="day-6-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-6.xhtml" id="day-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-1.xhtml" id="day-7-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-2.xhtml" id="day-7-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-3.xhtml" id="day-7-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-4.xhtml" id="day-7-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-5.xhtml" id="day-7-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-6.xhtml" id="day-7-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-7.xhtml" id="day-7-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-8.xhtml" id="day-7-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-9.xhtml" id="day-7-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-10.xhtml" id="day-7-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7-introduction.xhtml" id="day-7-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-7.xhtml" id="day-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-1.xhtml" id="day-8-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-2.xhtml" id="day-8-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-3.xhtml" id="day-8-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-4.xhtml" id="day-8-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-5.xhtml" id="day-8-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-6.xhtml" id="day-8-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-7.xhtml" id="day-8-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-8.xhtml" id="day-8-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-9.xhtml" id="day-8-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-10.xhtml" id="day-8-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8-introduction.xhtml" id="day-8-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-8.xhtml" id="day-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-1.xhtml" id="day-9-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-2.xhtml" id="day-9-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-3.xhtml" id="day-9-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-4.xhtml" id="day-9-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-5.xhtml" id="day-9-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-6.xhtml" id="day-9-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-7.xhtml" id="day-9-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-8.xhtml" id="day-9-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-9.xhtml" id="day-9-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-10.xhtml" id="day-9-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9-introduction.xhtml" id="day-9-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-9.xhtml" id="day-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-1.xhtml" id="day-10-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-2.xhtml" id="day-10-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-3.xhtml" id="day-10-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-4.xhtml" id="day-10-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-5.xhtml" id="day-10-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-6.xhtml" id="day-10-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-7.xhtml" id="day-10-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-8.xhtml" id="day-10-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-9.xhtml" id="day-10-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-10.xhtml" id="day-10-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10-introduction.xhtml" id="day-10-introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/day-10.xhtml" id="day-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/proem.xhtml" id="proem.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="proem.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="day-1.xhtml"/>
+		<itemref idref="day-1-introduction.xhtml"/>
+		<itemref idref="day-1-1.xhtml"/>
+		<itemref idref="day-1-2.xhtml"/>
+		<itemref idref="day-1-3.xhtml"/>
+		<itemref idref="day-1-4.xhtml"/>
+		<itemref idref="day-1-5.xhtml"/>
+		<itemref idref="day-1-6.xhtml"/>
+		<itemref idref="day-1-7.xhtml"/>
+		<itemref idref="day-1-8.xhtml"/>
+		<itemref idref="day-1-9.xhtml"/>
+		<itemref idref="day-1-10.xhtml"/>
+		<itemref idref="day-2.xhtml"/>
+		<itemref idref="day-2-introduction.xhtml"/>
+		<itemref idref="day-2-1.xhtml"/>
+		<itemref idref="day-2-2.xhtml"/>
+		<itemref idref="day-2-3.xhtml"/>
+		<itemref idref="day-2-4.xhtml"/>
+		<itemref idref="day-2-5.xhtml"/>
+		<itemref idref="day-2-6.xhtml"/>
+		<itemref idref="day-2-7.xhtml"/>
+		<itemref idref="day-2-8.xhtml"/>
+		<itemref idref="day-2-9.xhtml"/>
+		<itemref idref="day-2-10.xhtml"/>
+		<itemref idref="day-3.xhtml"/>
+		<itemref idref="day-3-introduction.xhtml"/>
+		<itemref idref="day-3-1.xhtml"/>
+		<itemref idref="day-3-2.xhtml"/>
+		<itemref idref="day-3-3.xhtml"/>
+		<itemref idref="day-3-4.xhtml"/>
+		<itemref idref="day-3-5.xhtml"/>
+		<itemref idref="day-3-6.xhtml"/>
+		<itemref idref="day-3-7.xhtml"/>
+		<itemref idref="day-3-8.xhtml"/>
+		<itemref idref="day-3-9.xhtml"/>
+		<itemref idref="day-3-10.xhtml"/>
+		<itemref idref="day-4.xhtml"/>
+		<itemref idref="day-4-introduction.xhtml"/>
+		<itemref idref="day-4-1.xhtml"/>
+		<itemref idref="day-4-2.xhtml"/>
+		<itemref idref="day-4-3.xhtml"/>
+		<itemref idref="day-4-4.xhtml"/>
+		<itemref idref="day-4-5.xhtml"/>
+		<itemref idref="day-4-6.xhtml"/>
+		<itemref idref="day-4-7.xhtml"/>
+		<itemref idref="day-4-8.xhtml"/>
+		<itemref idref="day-4-9.xhtml"/>
+		<itemref idref="day-4-10.xhtml"/>
+		<itemref idref="day-5.xhtml"/>
+		<itemref idref="day-5-introduction.xhtml"/>
+		<itemref idref="day-5-1.xhtml"/>
+		<itemref idref="day-5-2.xhtml"/>
+		<itemref idref="day-5-3.xhtml"/>
+		<itemref idref="day-5-4.xhtml"/>
+		<itemref idref="day-5-5.xhtml"/>
+		<itemref idref="day-5-6.xhtml"/>
+		<itemref idref="day-5-7.xhtml"/>
+		<itemref idref="day-5-8.xhtml"/>
+		<itemref idref="day-5-9.xhtml"/>
+		<itemref idref="day-5-10.xhtml"/>
+		<itemref idref="day-6.xhtml"/>
+		<itemref idref="day-6-introduction.xhtml"/>
+		<itemref idref="day-6-1.xhtml"/>
+		<itemref idref="day-6-2.xhtml"/>
+		<itemref idref="day-6-3.xhtml"/>
+		<itemref idref="day-6-4.xhtml"/>
+		<itemref idref="day-6-5.xhtml"/>
+		<itemref idref="day-6-6.xhtml"/>
+		<itemref idref="day-6-7.xhtml"/>
+		<itemref idref="day-6-8.xhtml"/>
+		<itemref idref="day-6-9.xhtml"/>
+		<itemref idref="day-6-10.xhtml"/>
+		<itemref idref="day-7.xhtml"/>
+		<itemref idref="day-7-introduction.xhtml"/>
+		<itemref idref="day-7-1.xhtml"/>
+		<itemref idref="day-7-2.xhtml"/>
+		<itemref idref="day-7-3.xhtml"/>
+		<itemref idref="day-7-4.xhtml"/>
+		<itemref idref="day-7-5.xhtml"/>
+		<itemref idref="day-7-6.xhtml"/>
+		<itemref idref="day-7-7.xhtml"/>
+		<itemref idref="day-7-8.xhtml"/>
+		<itemref idref="day-7-9.xhtml"/>
+		<itemref idref="day-7-10.xhtml"/>
+		<itemref idref="day-8.xhtml"/>
+		<itemref idref="day-8-introduction.xhtml"/>
+		<itemref idref="day-8-1.xhtml"/>
+		<itemref idref="day-8-2.xhtml"/>
+		<itemref idref="day-8-3.xhtml"/>
+		<itemref idref="day-8-4.xhtml"/>
+		<itemref idref="day-8-5.xhtml"/>
+		<itemref idref="day-8-6.xhtml"/>
+		<itemref idref="day-8-7.xhtml"/>
+		<itemref idref="day-8-8.xhtml"/>
+		<itemref idref="day-8-9.xhtml"/>
+		<itemref idref="day-8-10.xhtml"/>
+		<itemref idref="day-9.xhtml"/>
+		<itemref idref="day-9-introduction.xhtml"/>
+		<itemref idref="day-9-1.xhtml"/>
+		<itemref idref="day-9-2.xhtml"/>
+		<itemref idref="day-9-3.xhtml"/>
+		<itemref idref="day-9-4.xhtml"/>
+		<itemref idref="day-9-5.xhtml"/>
+		<itemref idref="day-9-6.xhtml"/>
+		<itemref idref="day-9-7.xhtml"/>
+		<itemref idref="day-9-8.xhtml"/>
+		<itemref idref="day-9-9.xhtml"/>
+		<itemref idref="day-9-10.xhtml"/>
+		<itemref idref="day-10.xhtml"/>
+		<itemref idref="day-10-introduction.xhtml"/>
+		<itemref idref="day-10-1.xhtml"/>
+		<itemref idref="day-10-2.xhtml"/>
+		<itemref idref="day-10-3.xhtml"/>
+		<itemref idref="day-10-4.xhtml"/>
+		<itemref idref="day-10-5.xhtml"/>
+		<itemref idref="day-10-6.xhtml"/>
+		<itemref idref="day-10-7.xhtml"/>
+		<itemref idref="day-10-8.xhtml"/>
+		<itemref idref="day-10-9.xhtml"/>
+		<itemref idref="day-10-10.xhtml"/>
+		<itemref idref="conclusion.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
