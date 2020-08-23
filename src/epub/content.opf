@@ -54,7 +54,7 @@
 		<dc:source>https://archive.org/details/decameronofgiova02bocc_0</dc:source>
 		<!-- Volume 3 -->
 		<dc:source>https://archive.org/details/decameronofgiova03bocc</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The scan source does not have the usual opening quotes on each paragraph in a multi-paragraph quote. The transcription preserved this, and this production does as well.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Decameron</meta>
