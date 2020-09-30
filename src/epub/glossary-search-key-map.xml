@@ -40,8 +40,8 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cozen">
 		<match value="cozen">
-			<value value="cozened">
-			<value value="cozening">
+			<value value="cozened"/>
+			<value value="cozening"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#eath">
@@ -58,6 +58,7 @@
 			<value value="guerdoned"/>
 			<value value="guerdoning"/>
 			<value value="guerdons"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#incontinent">
 		<match value="incontinent"/>
