@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#allegresse">
+		<match value="allegresse"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#algates">
+		<match value="algates"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#amain">
+		<match value="amain"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#assainment">
+		<match value="assainment"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#clip">
+		<match value="clip">
+			<value value="clipped"/>
+			<value value="clipping"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#assoiled">
+		<match value="assoiled"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#astonied">
+		<match value="astonied"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#canzonet">
+		<match value="canzonet">
+			<value value="canzonets"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#certes">
+		<match value="certes"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#clip">
+		<match value="clip">
+			<value value="clipped"/>
+			<value value="clipping"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cozen">
+		<match value="cozen">
+			<value value="cozened">
+			<value value="cozening">
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#eath">
+		<match value="eath"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ecod">
+		<match value="ecod"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fashous">
+		<match value="fashous"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#guerdon">
+		<match value="guerdon">
+			<value value="guerdoned"/>
+			<value value="guerdoning"/>
+			<value value="guerdons"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#incontinent">
+		<match value="incontinent"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#liefer">
+		<match value="liefer"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#miniver">
+		<match value="miniver"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nigromancer">
+		<match value="nigromancer"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#occult">
+		<match value="occult"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#othergates">
+		<match value="othergates"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ouches">
+		<match value="ouches"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#peradventure">
+		<match value="peradventure"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#puissance">
+		<match value="puissance"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#reck">
+		<match value="reck">
+			<value value="recked"/>
+			<value value="recking"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shamefast">
+		<match value="shamefast">
+			<value value="shamefestly"/>
+			<value value="shamefastness"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#somedele">
+		<match value="somedele"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sovantry">
+		<match value="sovantry"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#stale">
+		<match value="stale"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#thereanent">
+		<match value="thereanent"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#uneath">
+		<match value="uneath"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#unrecking">
+		<match value="unrecking"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#visnomy">
+		<match value="visnomy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#worship">
+		<match value="worship">
+			<value value="worshipped"/>
+			<value value="worshipful"/>
+			<value value="worshipfully"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ywis">
+		<match value="ywis"/>
+	</search-key-group>
+</search-key-map>
