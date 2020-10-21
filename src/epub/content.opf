@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-10-21T02:07:20Z</dc:date>
+		<meta property="dcterms:modified">2020-10-21T02:07:20Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,8 +44,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Seven women and three men each tell a story a day for ten days while sheltering to avoid the black plague.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In the time of a devastating pandemic, seven women and three men withdraw to a country estate outside Florence to give themselves a diversion from the death around them. Once there, they decide to spend some time each day telling stories, each of the ten to tell one story each day. They do this for ten days, with a few other days of rest in-between, resulting in the 100 stories of the &lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne"&gt;Decameron&lt;/a&gt;.&lt;/p&gt;
-			&lt;p&gt;The &lt;a href="https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne"&gt;Decameron&lt;/a&gt; was written after the Black Plague spread through Italy in 1348. Most of the tales did not originate with &lt;a href="https://standardebooks.org/ebooks/Boccaccio"&gt;Boccacio&lt;/a&gt;; some of them were centuries old already in his time, but Boccaccio imbued them all with his distinctive style. The stories run the gamut from tragedy to comedy, from lewd to inspiring, and sometimes all at once. They also provide a detailed picture of daily life in fourteenth-century Italy.&lt;/p&gt;
+			&lt;p&gt;In the time of a devastating pandemic, seven women and three men withdraw to a country estate outside Florence to give themselves a diversion from the death around them. Once there, they decide to spend some time each day telling stories, each of the ten to tell one story each day. They do this for ten days, with a few other days of rest inbetween, resulting in the 100 stories of the &lt;i&gt;Decameron&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Decameron&lt;/i&gt; was written after the Black Plague spread through Italy in 1348. Most of the tales did not originate with &lt;a href="https://standardebooks.org/ebooks/Boccaccio"&gt;Boccaccio&lt;/a&gt;; some of them were centuries old already in his time, but Boccaccio imbued them all with his distinctive style. The stories run the gamut from tragedy to comedy, from lewd to inspiring, and sometimes all of those at once. They also provide a detailed picture of daily life in fourteenth-century Italy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23700</dc:source>
@@ -56,8 +56,8 @@
 		<!-- Volume 3 -->
 		<dc:source>https://archive.org/details/decameronofgiova03bocc</dc:source>
 		<meta property="se:production-notes">The scan source does not have the usual opening quotes on each paragraph in a multi-paragraph quote. The transcription preserved this, and this production does as well. Two paragraphs in the tenth story on day three were left untranslated by Payne; English versions of these were copied from another PD translation by J. M. Rigg. A glossary was added for some of the archaic words used.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">293508</meta>
+		<meta property="se:reading-ease.flesch">43.13</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Decameron</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/giovanni-boccaccio_the-decameron_john-payne</meta>
 		<dc:creator id="author">Giovanni Boccaccio</dc:creator>
@@ -97,6 +97,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
