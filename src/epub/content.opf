@@ -44,7 +44,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Seven women and three men each tell a story a day for ten days while sheltering to avoid the black plague.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In the time of a devastating pandemic, seven women and three men withdraw to a country estate outside Florence to give themselves a diversion from the death around them. Once there, they decide to spend some time each day telling stories, each of the ten to tell one story each day. They do this for ten days, with a few other days of rest inbetween, resulting in the 100 stories of the &lt;i&gt;Decameron&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;In the time of a devastating pandemic, seven women and three men withdraw to a country estate outside Florence to give themselves a diversion from the death around them. Once there, they decide to spend some time each day telling stories, each of the ten to tell one story each day. They do this for ten days, with a few other days of rest in between, resulting in the 100 stories of the &lt;i&gt;Decameron&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;The &lt;i&gt;Decameron&lt;/i&gt; was written after the Black Plague spread through Italy in 1348. Most of the tales did not originate with &lt;a href="https://standardebooks.org/ebooks/Boccaccio"&gt;Boccaccio&lt;/a&gt;; some of them were centuries old already in his time, but Boccaccio imbued them all with his distinctive style. The stories run the gamut from tragedy to comedy, from lewd to inspiring, and sometimes all of those at once. They also provide a detailed picture of daily life in fourteenth-century Italy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
