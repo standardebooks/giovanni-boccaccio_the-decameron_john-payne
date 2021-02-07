@@ -10,6 +10,12 @@
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
+	<file path="day-*.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
+		</ignore>
+	</file>
 	<file path="day-1-1.xhtml">
 		<ignore>
 			<code>t-003</code>
