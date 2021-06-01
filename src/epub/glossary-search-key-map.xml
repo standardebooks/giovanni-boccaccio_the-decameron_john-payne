@@ -95,7 +95,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#shamefast">
 		<match value="shamefast">
-			<value value="shamefestly"/>
+			<value value="shamefastly"/>
 			<value value="shamefastness"/>
 		</match>
 	</search-key-group>
