@@ -8,207 +8,37 @@
 	</file>
 	<file path="day-*.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>t-003</code>
+			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
+		</ignore>
+		<ignore>
+			<code>y-019</code>
+			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
+		</ignore>
+		<ignore>
+			<code>y-021</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-1-1.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-1-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-1-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-1-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-1-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-1-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-1-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-1-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-1-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 	<file path="day-1-10.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-1.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-2-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 	<file path="day-3-1.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
-	<file path="day-3-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-3-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-3-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-3-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-3-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-3-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-3-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-3-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-3-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
 	<file path="day-4-1.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
 		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
@@ -216,441 +46,50 @@
 	</file>
 	<file path="day-4-2.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-4-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-4-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 	<file path="day-4-5.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-4-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-4-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-4-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-4-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-4-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
+			<code>y-007</code>
+			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-5-1.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-5-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 	<file path="day-6-1.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-6-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 	<file path="day-7-1.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-7-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 	<file path="day-8-1.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-8-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 	<file path="day-9-1.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-9-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-9-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-9-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-9-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-9-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-9-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-9-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-9-9.xhtml">
-
-	</file>
-	<file path="day-9-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 	<file path="day-10-1.xhtml">
 		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
 			<code>t-051</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-2.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-5.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-6.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-7.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-8.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-9.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-	</file>
-	<file path="day-10-10.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
