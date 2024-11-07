@@ -19,14 +19,6 @@
 	text-align: center;
 }
 
-h2{
-	font-size: 1.75em;
-}
-
-h3{
-	font-size: 1.5em;
-}
-
 /* verse/song */
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
