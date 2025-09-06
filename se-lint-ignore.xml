@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="day-1-introduction.xhtml">
-		<ignore>
-			<code>t-051</code>
-			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
-	<file path="day-*.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
-		</ignore>
-		<ignore>
-			<code>y-019</code>
-			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
-		</ignore>
-	</file>
 	<file path="day-1-*.xhtml">
 		<ignore>
 			<code>t-051</code>
@@ -73,6 +57,16 @@
 	<file path="day-10-*.xhtml">
 		<ignore>
 			<code>t-051</code>
+			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
+		</ignore>
+	</file>
+	<file path="day-*.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
+		</ignore>
+		<ignore>
+			<code>y-019</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
