@@ -69,5 +69,9 @@
 			<code>y-019</code>
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
+		<ignore>
+			<code>y-036</code>
+			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
