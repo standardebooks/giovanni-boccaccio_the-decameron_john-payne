@@ -56,7 +56,7 @@
 		<!-- Volume 3 -->
 		<dc:source>https://archive.org/details/decameronofgiova03bocc</dc:source>
 		<meta property="se:production-notes">The scan source does not have the usual opening quotes on each paragraph in a multi-paragraph quote. The transcription preserved this, and this production does as well. Two paragraphs in the tenth story on day three were left untranslated by Payne; English versions of these were copied from another PD translation by J. M. Rigg. A glossary was added for some of the archaic words used.</meta>
-		<meta property="se:word-count">293508</meta>
+		<meta property="se:word-count">292277</meta>
 		<meta property="se:reading-ease.flesch">43.13</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Decameron</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/giovanni-boccaccio_the-decameron_john-payne</meta>
