@@ -1,76 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="day-1-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-2-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-3-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-4-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-5-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-6-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-7-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-8-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-9-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-10-*.xhtml">
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
 	<file path="day-*.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Each story only uses a single quote at beginning and end of the story.</reason>
 		</ignore>
-		<ignore>
-			<code>y-019</code>
+		<ignore code="y-019">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
-		<ignore>
-			<code>y-036</code>
+		<ignore code="y-036">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
 	</file>
