@@ -21,6 +21,9 @@
 		</ignore>
 	</file>
 	<file path="day-5-*.xhtml">
+		<ignore code="t-004">
+			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
+		</ignore>
 		<ignore code="t-051">
 			<reason>The stories use narrator's quotes only in the first and last paragraphs of each story.</reason>
 		</ignore>
