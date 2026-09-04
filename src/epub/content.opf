@@ -30,8 +30,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Decameron</dc:title>
 		<meta property="file-as" refines="#title">Decameron, The</meta>
-		<dc:subject id="subject-1">Plague -- Europe -- History -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Storytelling -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Plague--Europe--History--Fiction</dc:subject>
+		<dc:subject id="subject-2">Storytelling--Fiction</dc:subject>
 		<dc:subject id="subject-3">Allegories</dc:subject>
 		<dc:subject id="subject-4">Frame-stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
